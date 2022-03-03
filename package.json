@@ -1,11 +1,25 @@
 {
   "name": "tailwindcss-safari-gap-plugin",
   "version": "1.0.0",
-  "description": "",
+  "description": "A tailwind plugin of flex gaps for safari v14 and lower",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Anil Akgunes",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anlakgns/tailwindcss-safari-gap-plugin.git"
+  },
+  "keywords": [
+    "tailwind",
+    "safari",
+    "flex",
+    "flex-gaps"
+  ],
+  "bugs": {
+    "url": "https://github.com/anlakgns/tailwindcss-safari-gap-plugin/issues"
+  },
+  "homepage": "https://github.com/anlakgns/tailwindcss-safari-gap-plugin#readme"
 }
